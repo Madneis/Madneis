@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Madneis
+- 👀 I’m interested in learning more about web development and becoming a front end developer.
+- 🌱 I’m currently learning Java, PHP, more of CSS, and html.
+- 💞️ I’m looking to collaborate on web development projects.
+- 📫 How to reach me victorygingoyon@gmail.com/+639335386931 (I'm on Telegram and Whatsapp).
